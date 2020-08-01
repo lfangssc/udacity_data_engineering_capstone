@@ -1,0 +1,43 @@
+Field Name,Data Type,Field Size for display,Description,Example
+accident_id,string,24,the id of individual accident,A-1
+street,string,24,street name,I-70 E
+city,string,24,city name,Dayton
+county,string,24,county name,Montgomery
+state,string,24,state abbreviation,OH
+zipcode,string,24,zipcode,45424
+airport_code_id,string,24,airport id,KFFO
+weather_timestamp,string,36,time of the accident happened,'2016-02-08 05:58:00'
+timestamp,timestamp,48,timestamp of weather_timestamp,"datetime.datetime(2016, 2, 8, 5, 58))"
+hour,integer,24,hour,5
+month,integer,24,month,2
+weekday,integer,24,weekday,2
+year,integer,24,year,2016
+state_code,string,24,state abbreviation,MD
+median_age,integer,24,median age,33
+male_population,integer,24,male population,40601
+female_population,integer,24,female population,41862
+total_population,integer,24,total population ,82463
+number_of_veterans,integer,24,veterans number,1562
+foreign_born,integer,24,foreign born number,30908
+average_household_size,integer,24,average number of family,2
+Hispanic_or_Latino,long,24,latino population,10829
+White,long,24,while population,71915
+Black_or_African_American,long,24,black population,1376
+American_Indian_and_Alaska_Native,long,24,native American population ,2406
+Asian,long,24,Asian population,1649
+temperature,string,24,temperature ,36.9
+wind_chill,string,24,wind_chill temperature,33.3
+humidity,string,24,humidity number,100
+pressure,string,24,pressure number,29.65
+visibility,string,24,visibility number,10
+wind_detection,string,24,wind strength and direction,Calm
+wind_speed,string,24,wind speed,3.5
+precipitation,string,24,precipitation number,0.02
+weather_condition,string,24,weather condition,Light Rain
+bump,string,24,road bump,'False’
+crossing,string,24,traffic crossing,'False’
+sunrise_sunset,string,24,Day or night,Night
+zip ,string,24,zipcode,1001
+median_income,integer,24,median household income,56663
+mean_income,integer,24,mean household income,66688
+population,integer,24,population by zipcode,16445
