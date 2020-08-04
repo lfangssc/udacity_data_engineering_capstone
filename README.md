@@ -221,4 +221,4 @@ Fact table: accident
 - The database needed to be accessed by 100+ people. Because the processed data has been stored in S3, Athena is a right tool for many users to query the data concurrently. The Athena is a serverless lamda applications, it is very economic.
 
 
-
+![ ](lake_structure.png?raw=true "Title")
