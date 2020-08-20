@@ -22,7 +22,12 @@
         - Data storage: S3 and columnar stoarge parquet
         - Spark job submission in bash
         - Data analysis: EMR jupyter and/or Athena
-   
+  
+  
+ ![ ](lake_structure.png?raw=true "Title") 
+  
+  
+  
    ### Data Sources
    
    The data are:
@@ -221,4 +226,4 @@ Fact table: accident
 - The database needed to be accessed by 100+ people. Because the processed data has been stored in S3, Athena is a right tool for many users to query the data concurrently. The Athena is a serverless lamda applications, it is very economic.
 
 
-![ ](lake_structure.png?raw=true "Title")
+
