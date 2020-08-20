@@ -2,6 +2,16 @@
 
 # Project Title: US Annual Traffic Accidents and the Infulence of Weather, Demographic and Household Income
 
+ ![ ](lake_structure.png?raw=true "Title")
+
+
+
+
+
+
+
+
+
 ## I. Scope the Project and Gather Data
    ### Scope
    
@@ -24,7 +34,7 @@
         - Data analysis: EMR jupyter and/or Athena
   
   
- ![ ](lake_structure.png?raw=true "Title") 
+ 
   
   
   
